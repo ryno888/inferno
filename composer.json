@@ -5,7 +5,7 @@
             "Ryno\\ComposerTest\\": "src"
         },
         "files": [
-            "src/TestClass.php"
+            "src/core.php"
         ]
     },
     "authors": [
