@@ -1,0 +1,14 @@
+{
+    "name": "ryno/composer_test",
+    "autoload": {
+        "psr-4": {
+            "Ryno\\ComposerTest\\": "src/TestClass.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryno Van Zyl"
+        }
+    ],
+    "require": {}
+}
