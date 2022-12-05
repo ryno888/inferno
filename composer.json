@@ -2,8 +2,11 @@
     "name": "ryno/composer_test",
     "autoload": {
         "psr-4": {
-            "Ryno\\ComposerTest\\": "src/TestClass.php"
-        }
+            "Ryno\\ComposerTest\\": "src"
+        },
+        "files": [
+            "src/TestClass.php"
+        ]
     },
     "authors": [
         {
